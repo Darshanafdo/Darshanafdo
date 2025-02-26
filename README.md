@@ -1,4 +1,3 @@
-# Create a README.md file with the generated GitHub profile README content
 
 readme_content = """\
 # Hi there, I'm Darshana Sandaruwan Fernando! 👋
@@ -59,21 +58,20 @@ Hello! I'm Darshana, a dedicated developer with experience in web and software d
 
 | Project Name | Repository Link |
 |-------------|----------------|
-| MY_Fashions | [Link](...) |
-| SLearn_driving_school | [Link](...) |
-| MY_Portfolio | [Link](...) |
-| DOT_MOE_GOV_LK (Collaboration) | [Link](...) |
-| DRMS-MOE (Collaboration) | [Link](...) |
+| MY_Fashions | https://github.com/Darshanafdo/MY_Fashions|
+| SLearn_driving_school | https://github.com/Darshanafdo/SLearn_driving_school|
+| MY_Portfolio | https://github.com/Darshanafdo/MY_Portfolio|
+| DOT_MOE_GOV_LK (Collaboration) | https://github.com/sluminda/DOT_MOE_GOV_LK|
+| DRMS-MOE (Collaboration) | https://github.com/sluminda/DRMS_MOE|
 
 ---
 
 ## 🌐 Connect with Me
 
-| Platform | Username / Profile Link |
+| Platform | Profile Link |
 |----------|------------------|
-| GitHub | [Your GitHub Profile](...) |
-| LinkedIn | [Your LinkedIn Profile](...) |
-| Twitter | [Your Twitter Profile](...) |
+| GitHub | [https://github.com/Darshanafdo] |
+| LinkedIn | www.linkedin.com/in/darshanafdo|
 
 ---
 
@@ -96,18 +94,11 @@ Hello! I'm Darshana, a dedicated developer with experience in web and software d
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= Darshanafdo&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username= Darshanafdo=compact&theme=tokyonight)
 
 ---
 
-Thanks for stopping by! 🚀 Let's connect and build something amazing. 😃
-"""
 
-# Save as a file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
 
-file_path
