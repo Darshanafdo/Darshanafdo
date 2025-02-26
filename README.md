@@ -1,5 +1,5 @@
 
-readme_content = """\
+
 # Hi there, I'm Darshana Sandaruwan Fernando! 👋
 
 ### Passionate Full-Stack Developer | Cybersecurity Enthusiast | UI/UX Designer
