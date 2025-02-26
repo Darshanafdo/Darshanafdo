@@ -94,9 +94,9 @@ Hello! I'm Darshana, a dedicated developer with experience in web and software d
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= Darshanafdo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshanafdo&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username= Darshanafdo=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshanafdo&layout=compact&theme=tokyonight)
 
 ---
 
